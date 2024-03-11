@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+google_service_key.json
+# Alembic versions
+alembic/versions/*
+input_images/
+test_images/
+alembic.ini
