@@ -2,6 +2,10 @@
 
 [ 최종산출.PDF ](https://github.com/Chosamee/Digle-WebRTC/blob/master/%EC%B5%9C%EC%A2%85%EC%82%B0%EC%B6%9C.pdf)
 
+
+[ Model code ](https://github.com/Chosamee/SimpleFaceSimilarityChecker-UseAdaFace)
+
+
 -   1. 소개
 
 -   2. 목표
